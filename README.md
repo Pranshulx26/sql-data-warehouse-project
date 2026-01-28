@@ -54,6 +54,7 @@ sql-data-warehouse-project/
 │   ├── bronze/           # DDL for loading raw data
 │   ├── silver/           # Data cleaning and transformation logic
 │   └── gold/             # Data modeling and Star Schema creation
+    └── analytics/
 ├── docs/                 # Data Models, ER Diagrams, and Requirements
 └── README.md             # Project Documentation
 ```
@@ -151,13 +152,13 @@ This project highlights real, employer-relevant skills:
 
 This project highlights my ability to bridge the gap between raw data and actionable business insights. It showcases a disciplined approach to **Data Engineering**, ensuring that data is not just stored, but is **accurate, integrated, and accessible** for analytical and business use.
 
-# 🛡️ License
+## 🛡️ License
 This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.  
 You are free to use, modify, and share this project with proper attribution.
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 Hi there! I’m **Pranshul Sharma**, a **B.Tech student in Information Technology** and a **Data Analyst enthusiast** on a mission to build a strong career in data analytics. I am passionate about transforming raw data into meaningful insights using **SQL, Python, and data visualization tools**.
 
 I enjoy working on real-world datasets, exploring patterns, and presenting insights that support data-driven decision-making. Through continuous learning and hands-on projects, I am actively developing my skills in **data analysis, business intelligence, and analytical storytelling**, with the goal of becoming a proficient and impactful **Data Analyst**.
